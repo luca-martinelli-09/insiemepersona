@@ -2,7 +2,15 @@
 module.exports = {
   content: ['./src/**/*.{html,js,svelte,ts}'],
   theme: {
-    extend: {},
+    extend: {
+      fontFamily: {
+        'body': ['"Noto Sans"', 'sans-serif'],
+        'serif': ['Arvo', 'serif'],
+        'display': ['"David Libre"']
+      }
+    },
   },
-  plugins: [],
+  plugins: [
+    require('@tailwindcss/typography'),
+  ],
 }
