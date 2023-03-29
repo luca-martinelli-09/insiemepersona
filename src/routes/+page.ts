@@ -3,7 +3,7 @@ import type { PageLoad } from "./$types";
 
 export const load = (async () => {
   const postsFiles = import.meta.glob("../md/articoli/*.md");
-  const iterablePosts = Object.entries(postsFiles);
+  const iterablePosts = Object.entries(postsFiles).slice(0, 6);
 
   let posts = await Promise.all(
     iterablePosts.map(async ([_, resolver]) => {
@@ -11,6 +11,8 @@ export const load = (async () => {
       return post;
     })
   );
+
+  posts = posts.sort((a, b) => (a.date < b.date ? 1 : a.date > b.date ? -1 : 0));
 
   return {
     posts,

@@ -2,11 +2,23 @@
   import InsiemePerSonaLogo from "$lib/components/logos/InsiemePerSonaLogo.svelte";
   import ViviamoSonaLogo from "$lib/components/logos/ViviamoSonaLogo.svelte";
   import Icon from "@iconify/svelte";
+  import NavItem from "./NavItem.svelte";
 
   let opened = false;
+  let shadow = false;
+
+  const onScroll = () => {
+    if (window.scrollY > 10) {
+      shadow = true;
+    } else {
+      shadow = false;
+    }
+  };
 </script>
 
-<header class="p-3 bg-white md:bg-opacity-80 md:backdrop-blur-md fixed inset-x-0 top-0 shadow-md z-50">
+<svelte:window on:scroll={onScroll} />
+
+<header class="p-3 {shadow ? 'bg-white' : ''} md:bg-opacity-80 md:backdrop-blur-md fixed inset-x-0 top-0 {shadow ? 'shadow-md' : ''} z-50 transition-shadow duration-200 ease-in">
   <nav class="container flex flex-wrap items-center justify-between mx-auto">
     <a href="/" class="flex items-center gap-2">
       <ViviamoSonaLogo />
@@ -17,22 +29,12 @@
       <Icon icon="ci:menu-duo-md" />
     </button>
     <div class="{opened ? 'block' : 'hidden'} w-full md:block md:w-auto">
-      <ul class="flex flex-col mt-4 bg-gray-50 md:flex-row md:space-x-8 md:mt-0 md:text-sm md:font-medium md:border-0 md:bg-transparent">
-        <li>
-          <a href="/" class="font-bold block py-2 pl-3 pr-4 text-white bg-blue-600 md:bg-transparent md:text-blue-600 md:p-0">Home</a>
-        </li>
-        <li>
-          <a href="/chi-siamo" class="font-bold block py-2 pl-3 pr-4 text-gray-700 hover:bg-gray-100 md:hover:bg-transparent md:border-0 md:hover:text-blue-600 md:p-0">Chi siamo</a>
-        </li>
-        <li>
-          <a href="/programma" class="font-bold block py-2 pl-3 pr-4 text-gray-700 hover:bg-gray-100 md:hover:bg-transparent md:border-0 md:hover:text-blue-600 md:p-0">Le nostre idee</a>
-        </li>
-        <li>
-          <a href="/articoli" class="font-bold block py-2 pl-3 pr-4 text-gray-700 hover:bg-gray-100 md:hover:bg-transparent md:border-0 md:hover:text-blue-600 md:p-0">Notizie</a>
-        </li>
-        <li>
-          <a href="/contatti" class="font-bold block py-2 pl-3 pr-4 text-gray-700 hover:bg-gray-100 md:hover:bg-transparent md:border-0 md:hover:text-blue-600 md:p-0">Contatti</a>
-        </li>
+      <ul class="flex flex-col mt-4 md:flex-row md:space-x-8 md:mt-0 md:text-sm md:font-medium">
+        <NavItem href="/" name="Home" />
+        <NavItem href="/chi-siamo" name="Chi siamo" />
+        <NavItem href="/programma" name="Le nostre idee" />
+        <NavItem href="/articoli" name="Notizie" />
+        <NavItem href="/contatti" name="Contatti" />
       </ul>
     </div>
   </nav>

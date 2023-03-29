@@ -4,3 +4,8 @@ export const formatDate = (x: string | Date) => {
 
   return `${d.getDate()} ${months[d.getMonth()]} ${d.getFullYear()}`;
 };
+
+export const LIST_TO_NAME = {
+  insiemepersona: "Insieme perSona",
+  viviamosona: "Viviamo Sona",
+};
