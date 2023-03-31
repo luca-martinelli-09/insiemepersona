@@ -100,14 +100,14 @@
       <path
         transform="matrix(1,0,0,-1,282.3017,141.3768)"
         d="M0 0C0-77.634-62.935-140.569-140.569-140.569-218.204-140.569-281.139-77.634-281.139 0-281.139 77.634-218.204 140.569-140.569 140.569-62.935 140.569 0 77.634 0 0"
-        fill="#043d50"
+        fill="#15457d"
       />
     </g>
     <g clip-path="url(#clip_1)">
       <path
         transform="matrix(1,0,0,-1,150.8472,180.4677)"
         d="M0 0C-1.899-.003-3.691-.506-5.274-1.396-6.855-2.285-8.527-3.012-10.301-3.39-11.44-3.634-12.457-3.735-13.364-3.73L-13.435 38.492-40.892 38.445C-40.699 38.026-40.476 37.594-40.225 37.146-38.933 34.847-38.248 32.252-38.243 29.643-38.228 20.695-46.028 13.402-55.631 13.385-65.234 13.369-73.058 20.636-73.073 29.584-73.077 31.876-72.577 34.095-71.586 36.18-71.272 36.84-71.082 37.318-70.97 37.729-70.909 37.955-70.854 38.177-70.806 38.394L-107.039 38.333-106.91-37.366C-106.894-47.254-98.864-55.257-88.976-55.24L-13.277-55.112-13.331-23.436C-11.772-23.054-9.731-23.016-7.082-23.71-6.256-23.926-5.456-24.233-4.688-24.608-3.241-25.313-1.641-25.705 .043-25.703 6.486-25.692 11.698-19.929 11.686-12.832 11.674-5.734 6.442 .011 0 0"
-        fill="#ee3545"
+        fill="#fff200"
       />
       <path
         transform="matrix(1,0,0,-1,203.9034,141.8636)"
@@ -125,10 +125,10 @@
         fill="#c43b85"
       />
     </g>
-    <use data-text="S" xlink:href="#font_2_5" transform="matrix(15.9998,0,0,-16,66.1406,113.89369)" fill="#ffffff" />
-    <use data-text="o" xlink:href="#font_2_11" transform="matrix(15.9998,0,0,-16,75.24449,113.89369)" fill="#ffffff" />
-    <use data-text="n" xlink:href="#font_2_10" transform="matrix(15.9998,0,0,-16,85.03637,113.89369)" fill="#ffffff" />
-    <use data-text="a" xlink:href="#font_2_6" transform="matrix(15.9998,0,0,-16,94.57225,113.89369)" fill="#ffffff" />
+    <use data-text="S" xlink:href="#font_2_5" transform="matrix(15.9998,0,0,-16,66.1406,113.89369)" fill="#15457d" />
+    <use data-text="o" xlink:href="#font_2_11" transform="matrix(15.9998,0,0,-16,75.24449,113.89369)" fill="#15457d" />
+    <use data-text="n" xlink:href="#font_2_10" transform="matrix(15.9998,0,0,-16,85.03637,113.89369)" fill="#15457d" />
+    <use data-text="a" xlink:href="#font_2_6" transform="matrix(15.9998,0,0,-16,94.57225,113.89369)" fill="#15457d" />
     <use data-text="L" xlink:href="#font_2_3" transform="matrix(15.9998,0,0,-16,126.059848,89.78169)" fill="#ffffff" />
     <use data-text="u" xlink:href="#font_2_13" transform="matrix(15.9998,0,0,-16,134.76374,89.78169)" fill="#ffffff" />
     <use data-text="g" xlink:href="#font_2_7" transform="matrix(15.9998,0,0,-16,144.34761,89.78169)" fill="#ffffff" />
@@ -138,17 +138,17 @@
     <use data-text="a" xlink:href="#font_2_6" transform="matrix(15.9998,0,0,-16,181.51514,89.78169)" fill="#ffffff" />
     <use data-text="n" xlink:href="#font_2_10" transform="matrix(15.9998,0,0,-16,190.04303,89.78169)" fill="#ffffff" />
     <use data-text="o" xlink:href="#font_2_11" transform="matrix(15.9998,0,0,-16,199.57892,89.78169)" fill="#ffffff" />
-    <use data-text="S" xlink:href="#font_2_5" transform="matrix(15.9998,0,0,-16,72.06052,197.0297)" fill="#ffffff" />
-    <use data-text="a" xlink:href="#font_2_6" transform="matrix(15.9998,0,0,-16,81.164409,197.0297)" fill="#ffffff" />
-    <use data-text="n" xlink:href="#font_2_10" transform="matrix(15.9998,0,0,-16,89.6923,197.0297)" fill="#ffffff" />
-    <use data-text=" " xlink:href="#font_2_1" transform="matrix(15.9998,0,0,-16,99.22818,197.0297)" fill="#ffffff" />
-    <use data-text="G" xlink:href="#font_2_2" transform="matrix(15.9998,0,0,-16,103.06813,197.0297)" fill="#ffffff" />
-    <use data-text="i" xlink:href="#font_2_8" transform="matrix(15.9998,0,0,-16,114.84399,197.0297)" fill="#ffffff" />
-    <use data-text="o" xlink:href="#font_2_11" transform="matrix(15.9998,0,0,-16,119.05193,197.0297)" fill="#ffffff" />
-    <use data-text="r" xlink:href="#font_2_12" transform="matrix(15.9998,0,0,-16,128.84381,197.0297)" fill="#ffffff" />
-    <use data-text="g" xlink:href="#font_2_7" transform="matrix(15.9998,0,0,-16,134.84374,197.0297)" fill="#ffffff" />
-    <use data-text="i" xlink:href="#font_2_8" transform="matrix(15.9998,0,0,-16,144.39562,197.0297)" fill="#ffffff" />
-    <use data-text="o" xlink:href="#font_2_11" transform="matrix(15.9998,0,0,-16,148.60356,197.0297)" fill="#ffffff" />
+    <use data-text="S" xlink:href="#font_2_5" transform="matrix(15.9998,0,0,-16,72.06052,197.0297)" fill="#15457d" />
+    <use data-text="a" xlink:href="#font_2_6" transform="matrix(15.9998,0,0,-16,81.164409,197.0297)" fill="#15457d" />
+    <use data-text="n" xlink:href="#font_2_10" transform="matrix(15.9998,0,0,-16,89.6923,197.0297)" fill="#15457d" />
+    <use data-text=" " xlink:href="#font_2_1" transform="matrix(15.9998,0,0,-16,99.22818,197.0297)" fill="#15457d" />
+    <use data-text="G" xlink:href="#font_2_2" transform="matrix(15.9998,0,0,-16,103.06813,197.0297)" fill="#15457d" />
+    <use data-text="i" xlink:href="#font_2_8" transform="matrix(15.9998,0,0,-16,114.84399,197.0297)" fill="#15457d" />
+    <use data-text="o" xlink:href="#font_2_11" transform="matrix(15.9998,0,0,-16,119.05193,197.0297)" fill="#15457d" />
+    <use data-text="r" xlink:href="#font_2_12" transform="matrix(15.9998,0,0,-16,128.84381,197.0297)" fill="#15457d" />
+    <use data-text="g" xlink:href="#font_2_7" transform="matrix(15.9998,0,0,-16,134.84374,197.0297)" fill="#15457d" />
+    <use data-text="i" xlink:href="#font_2_8" transform="matrix(15.9998,0,0,-16,144.39562,197.0297)" fill="#15457d" />
+    <use data-text="o" xlink:href="#font_2_11" transform="matrix(15.9998,0,0,-16,148.60356,197.0297)" fill="#15457d" />
     <use data-text="P" xlink:href="#font_2_4" transform="matrix(15.9998,0,0,-16,151.85152,166.8537)" fill="#ffffff" />
     <use data-text="a" xlink:href="#font_2_6" transform="matrix(15.9998,0,0,-16,161.6594,166.8537)" fill="#ffffff" />
     <use data-text="l" xlink:href="#font_2_9" transform="matrix(15.9998,0,0,-16,170.18729,166.8537)" fill="#ffffff" />
