@@ -7,7 +7,7 @@ birthday: '1955-08-30'
 birthplace: Verona (VR)
 location: Palazzolo
 type: consigliere
-image: /cv/giancarlo-giacomelli/profile.jpeg
+image: /cv/giancarlo-giacomelli/giancarlo-giacomelli.jpeg
 cv: /cv/giancarlo-giacomelli/giancarlo-giacomelli.pdf
 casellario: /cv/giancarlo-giacomelli/casellario-giancarlo-giacomelli.pdf
 list:

@@ -1,6 +1,5 @@
 # pip install python-frontmatter
 # %%
-import os
 from io import BytesIO
 
 import frontmatter
@@ -22,7 +21,7 @@ for candidatoID, data in candidati.iterrows():
         "birthplace": data["luogo-nascita"],
         "location": data["residenza"],
         "type": "consigliere",
-        "image": f"/cv/{candidatoID}/profile.jpeg",
+        "image": f"/cv/{candidatoID}/{candidatoID}.jpeg",
         "cv": f"/cv/{candidatoID}/{candidatoID}.pdf",
         "casellario": f"/cv/{candidatoID}/casellario-{candidatoID}.pdf",
         "list": [data["lista"]]

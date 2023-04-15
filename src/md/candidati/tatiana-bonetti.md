@@ -7,7 +7,7 @@ birthday: '1976-03-29'
 birthplace: Verona (VR)
 location: Lugagnano
 type: consigliere
-image: /cv/tatiana-bonetti/profile.jpeg
+image: /cv/tatiana-bonetti/tatiana-bonetti.jpeg
 cv: /cv/tatiana-bonetti/tatiana-bonetti.pdf
 casellario: /cv/tatiana-bonetti/casellario-tatiana-bonetti.pdf
 list:

@@ -7,7 +7,7 @@ birthday: '1998-09-24'
 birthplace: Verona (VR)
 location: Lugagnano
 type: consigliere
-image: /cv/luca-martinelli/profile.jpeg
+image: /cv/luca-martinelli/luca-martinelli.jpeg
 cv: /cv/luca-martinelli/luca-martinelli.pdf
 casellario: /cv/luca-martinelli/casellario-luca-martinelli.pdf
 list:
