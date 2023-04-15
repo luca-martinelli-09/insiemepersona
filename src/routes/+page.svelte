@@ -3,8 +3,8 @@
   import InsiemePerSonaLogo from "$lib/components/logos/InsiemePerSonaLogo.svelte";
   import Puzzle from "$lib/components/logos/Puzzle.svelte";
   import ViviamoSonaLogo from "$lib/components/logos/ViviamoSonaLogo.svelte";
-  import gsap from "gsap";
-  import { onMount } from "svelte";
+  // import gsap from "gsap";
+  // import { onMount } from "svelte";
   import type { PageData } from "./$types";
 
   export let data: PageData;
@@ -16,7 +16,7 @@
   let image: HTMLElement;
   let buttons: HTMLElement;
 
-  let commonGsapOptions = {
+  /*let commonGsapOptions = {
     opacity: 0,
     ease: "Expo.easeOut",
     duration: 1,
@@ -43,7 +43,7 @@
         ...commonGsapOptions,
         delay: -0.4,
       });
-  });
+  });*/
 </script>
 
 <section>

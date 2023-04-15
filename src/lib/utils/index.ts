@@ -6,6 +6,6 @@ export const formatDate = (x: string | Date) => {
 };
 
 export const LIST_TO_NAME = {
-  insiemepersona: "Insieme perSona",
-  viviamosona: "Viviamo Sona",
+  insiemepersona: "Insieme per Sona",
+  viviamosona: "ViviAmo Sona",
 };

@@ -13,8 +13,9 @@
   <slot />
 </main>
 
-<footer>
-  <div class="max-w-screen-2xl mx-auto">
-    <a href="/privacy" class="underline text-sm">Privacy Policy</a>
+<footer class="mt-10 bg-[#15457d] text-white">
+  <div class="max-w-screen-2xl mx-auto py-5 text-sm flex flex-col gap-2">
+    <p>Questo sito non utilizza cookie.</p>
+    <a href="/privacy" class="underline">Privacy Policy</a>
   </div>
 </footer>

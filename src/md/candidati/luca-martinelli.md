@@ -3,11 +3,13 @@ id: luca-martinelli
 name: Luca
 surname: Martinelli
 gender: M
-birthday: 1998-09-24
-birthplace: Verona
+birthday: '1998-09-24'
+birthplace: Verona (VR)
 location: Lugagnano
 type: consigliere
 image: /cv/luca-martinelli/profile.jpeg
 cv: /cv/luca-martinelli/luca-martinelli.pdf
-list: [viviamosona, insiemepersona]
+casellario: /cv/luca-martinelli/casellario-luca-martinelli.pdf
+list:
+- viviamosona
 ---

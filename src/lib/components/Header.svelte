@@ -34,7 +34,7 @@
         <NavItem href="/chi-siamo" name="Chi siamo" />
         <NavItem href="/programma" name="Le nostre idee" />
         <NavItem href="/articoli" name="Notizie" />
-        <NavItem href="/contatti" name="Contatti" />
+        <!--<NavItem href="/contatti" name="Contatti" />-->
       </ul>
     </div>
   </nav>
