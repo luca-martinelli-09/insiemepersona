@@ -13,3 +13,5 @@ casellario: /cv/loreta-bottura/casellario-loreta-bottura.pdf
 list:
 - viviamosona
 ---
+
+Operaia.

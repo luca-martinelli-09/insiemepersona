@@ -13,3 +13,5 @@ casellario: /cv/luca-martinelli/casellario-luca-martinelli.pdf
 list:
 - viviamosona
 ---
+
+Sviluppatore web presso Gruppo Gaspari, azienda che si occupa di editoria e servizi web per le PA.

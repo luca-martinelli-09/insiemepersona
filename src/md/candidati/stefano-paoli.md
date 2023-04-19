@@ -13,3 +13,5 @@ casellario: /cv/stefano-paoli/casellario-stefano-paoli.pdf
 list:
 - viviamosona
 ---
+
+Pensionato. Precedentemente dipendente per vent'anni alla Serugeri Legnami.

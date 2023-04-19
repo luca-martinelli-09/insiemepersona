@@ -13,3 +13,5 @@ casellario: /cv/daniela-grigoli/casellario-daniela-grigoli.pdf
 list:
 - viviamosona
 ---
+
+Responsabile commerciale di Wireless Group, azienda che si occupa di telecomunicazioni con sede a Sommacampagna.

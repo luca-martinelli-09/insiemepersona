@@ -13,3 +13,5 @@ casellario: /cv/tatiana-bonetti/casellario-tatiana-bonetti.pdf
 list:
 - viviamosona
 ---
+
+Impiegata Amministrativa presso Rigo Srl.

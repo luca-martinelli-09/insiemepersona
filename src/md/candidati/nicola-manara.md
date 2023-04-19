@@ -13,3 +13,5 @@ casellario: /cv/nicola-manara/casellario-nicola-manara.pdf
 list:
 - viviamosona
 ---
+
+Autista di ambulanza presso l'ULSS 9 Scaligera

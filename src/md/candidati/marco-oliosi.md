@@ -13,3 +13,5 @@ casellario: /cv/marco-oliosi/casellario-marco-oliosi.pdf
 list:
 - viviamosona
 ---
+
+43 anni in uno studio di commercialista come amministrazione del personale, 20 anni nel direttivo Avis, direttivo Asilo, Alpini e Sagra di San Giorgio e presidente della consulta di San Giorgio.

@@ -12,3 +12,7 @@ vite.config.ts.timestamp-*
 /schede-candidati/*
 !/schede-candidati/scheda-insiemepersona.svg
 !/schede-candidati/scheda-viviamosona.svg
+!/schede-candidati/scheda-fi-lega.svg
+
+/cvs/*
+!/cvs/template.docx

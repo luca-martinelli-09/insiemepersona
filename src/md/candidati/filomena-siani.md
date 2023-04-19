@@ -13,3 +13,5 @@ casellario: /cv/filomena-siani/casellario-filomena-siani.pdf
 list:
 - viviamosona
 ---
+
+Impiegata Amministrativa/Contabile.

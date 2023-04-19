@@ -13,3 +13,5 @@ casellario: /cv/matteo-pizzini/casellario-matteo-pizzini.pdf
 list:
 - insiemepersona
 ---
+
+Responsabile di Coordinamento e Produzione di una azienda cartotecnica dal 1996.

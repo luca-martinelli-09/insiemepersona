@@ -13,3 +13,5 @@ casellario: /cv/franco-bonomi/casellario-franco-bonomi.pdf
 list:
 - insiemepersona
 ---
+
+Impiegato in ente locale (Comune di Verona) con qualifica "istruttore, area vigilanza".

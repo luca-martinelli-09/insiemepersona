@@ -1,33 +1,49 @@
-id,nome,cognome,sesso,data-nascita,luogo-nascita,residenza,lista
-mirco-amali,Mirco,Amali,M,1985-06-23,"Verona (VR)",Lugagnano,insiemepersona
-jacopo-beltres-perez,Jacopo,Beltres Perez,M,2004-01-05,"Bussolengo (VR)",San Giorgio in Salici,viviamosona
-matteo-benedetti,Matteo,Benedetti,M,1985-11-11,"Bussolengo (VR)",Lugagnano,insiemepersona
-tatiana-bonetti,Tatiana,Bonetti,F,1976-03-29,"Verona (VR)",Lugagnano,viviamosona
-franco-bonomi,Franco,Bonomi,M,1963-02-21,"Arzignano (VI)",Lugagnano,insiemepersona
-loreta-bottura,Loreta,Bottura,F,1969-10-29,"Sona (VR)",Lugagnano,viviamosona
-nello-carnevale,Nello,Carnevale,M,1987-10-08,"Verona (VR)",Lugagnano,insiemepersona
-elena-catalano,Elena,Catalano,F,1967-04-22,"Bussolengo (VR)",Palazzolo,insiemepersona
-nicola-cobianchi,Nicola,Cobianchi,M,1968-08-13,"Bussolengo (VR)",Lugagnano,insiemepersona
-enrico-cordioli,Enrico,Cordioli,M,1980-09-17,"Verona (VR)",Lugagnano,viviamosona
-giannina-costa,Giannina,Costa,F,1949-01-23,"Sona (VR)",Villafranca,insiemepersona
-matteo-danese,Matteo,Danese,M,1980-01-22,"Verona (VR)",Palazzolo,insiemepersona
-arianna-gambini,Arianna,Gambini,F,1974-03-27,"Bussolengo (VR)",Lugagnano,insiemepersona
-eleonora-garonzi,Eleonora,Garonzi,F,1981-08-09,"Verona (VR)",San Giorgio in Salici,viviamosona
-giancarlo-giacomelli,Giancarlo,Giacomelli,M,1955-08-30,"Verona (VR)",Palazzolo,insiemepersona
-daniela-grigoli,Daniela,Grigoli,F,1963-10-03,"Bussolengo (VR)",San Giorgio in Salici,viviamosona
-renato-lago,Renato,Lago,M,1958-10-17,"Sona (VR)",Sona,viviamosona
-julyetta-le,Julyetta,Le detta Lilli,F,1980-11-01,"Legnago (VR)",Palazzolo,insiemepersona
-nicola-manara,Nicola,Manara,M,1976-10-20,"Bussolengo (VR)",Palazzolo,viviamosona
-melinda-mannino,Melinda,Mannino,F,1970-06-10,"Bussolengo (VR)",Palazzolo,insiemepersona
-luca-martinelli,Luca,Martinelli,M,1998-09-24,"Verona (VR)",Lugagnano,viviamosona
-marco-oliosi,Marco,Oliosi,M,1956-08-08,Peschiera del Garda,San Giorgio in Salici,viviamosona
-stefano-paoli,Stefano,Paoli,M,1975-01-20,"Bussolengo (VR)",Sona,viviamosona
-matteo-pizzini,Matteo,Pizzini,M,1979-01-03,"Bussolengo (VR)",Sona,insiemepersona
-valter-quarta,Valter,Quarta,M,1965-09-11,"Carmiano (LE)",Lugagnano,insiemepersona
-roberta-ruffo,Roberta,Ruffo,F,1967-07-24,"Verona (VR)",Verona,insiemepersona
-fernando-scandola,Fernando,Scandola,M,1961-12-27,"Sona (VR)",Lugagnano,viviamosona
-gianluigi-sette,Gianluigi,Sette,M,1972-02-26,"Bussolengo (VR)",San Giorgio in Salici,viviamosona
-filomena-siani,Filomena,Siani,F,1972-04-25,"Cava de' Tirreni (SA)",Palazzolo,viviamosona
-bruno-stevanoni,Bruno,Stevanoni,M,1957-04-03,"Verona (VR)",Lugagnano,insiemepersona
-albino-turata,Albino,Turata,M,1951-10-18,"Sona (VR)",Lugagnano,viviamosona
-orietta-vicentini,Orietta,Vicentini,F,1970-12-22,"Bussolengo (VR)",San Giorgio in Salici,viviamosona
+id,nome,cognome,sesso,data-nascita,luogo-nascita,residenza,lista,professione,via-residenza,email,telefono,casellario,custom-cv
+mirco-amali,Mirco,Amali,M,1985-06-23,"Verona (VR)",Lugagnano,insiemepersona,Dipendente presso Trenitalia s.p.a.,,mirco.amali@gmail.com,3896754109,,
+jacopo-beltres-perez,Jacopo,Beltres Perez,M,2004-01-05,"Bussolengo (VR)",San Giorgio in Salici,viviamosona,,,,,,
+matteo-benedetti,Matteo,Benedetti,M,1985-11-11,"Bussolengo (VR)",Lugagnano,insiemepersona,Geometra.,,info@benedettistudio.net,3495579889,,
+tatiana-bonetti,Tatiana,Bonetti,F,1976-03-29,"Verona (VR)",Lugagnano,viviamosona,Impiegata Amministrativa presso Rigo Srl.,,bonetti.tatiana@gmail.com,3406384072,,Sì
+franco-bonomi,Franco,Bonomi,M,1963-02-21,"Arzignano (VI)",Lugagnano,insiemepersona,"Impiegato in ente locale (Comune di Verona) con qualifica ""istruttore, area vigilanza"".",,,3285967810,,
+loreta-bottura,Loreta,Bottura,F,1969-10-29,"Sona (VR)",Lugagnano,viviamosona,Operaia.,,yrol69bottu@libero.it,3408997721,,
+nello-carnevale,Nello,Carnevale,M,1987-10-08,"Verona (VR)",Lugagnano,insiemepersona,,,,,,
+elena-catalano,Elena,Catalano,F,1967-04-22,"Bussolengo (VR)",Palazzolo,insiemepersona,"Assessore esterno con deleghe al Turismo e marketing territoriale, attività economico produttive, politiche agricole, politiche del lavoro (sportello lavoro), matrimoni, gas.",,elena.catalano@comune.sona.vr.it,3487661810,,
+nicola-cobianchi,Nicola,Cobianchi,M,1968-08-13,"Bussolengo (VR)",Lugagnano,insiemepersona,Dipendente Pubblica Amministrazione.,,th30ld68@gmail.com,3925934880,,Sì
+enrico-cordioli,Enrico,Cordioli,M,1980-09-17,"Verona (VR)",Lugagnano,viviamosona,Manager e imprenditore nell'ambito turistico. Già candidato sindaco e consigliere comunale (2013/2018),,,3483939852,,
+giannina-costa,Giannina,Costa,F,1949-01-23,"Sona (VR)",Villafranca,insiemepersona,"Pensionata, ex dipendente pubblica.",,,3245419914,,
+matteo-danese,Matteo,Danese,M,1980-01-22,"Verona (VR)",Palazzolo,insiemepersona,,,,,,
+arianna-gambini,Arianna,Gambini,F,1974-03-27,"Bussolengo (VR)",Lugagnano,insiemepersona,"Parrucchiera, socia dell'attività di Acconciature Ninì dal 2017, consigliere comunale di Sona dal 2013.",,arianna.gambini74@gmail.com,3454267355,,
+eleonora-garonzi,Eleonora,Garonzi,F,1981-08-09,"Verona (VR)",San Giorgio in Salici,viviamosona,,,,,,
+giancarlo-giacomelli,Giancarlo,Giacomelli,M,1955-08-30,"Verona (VR)",Palazzolo,insiemepersona,"Pensionato dal novembre 2020, precedentemente agente di commercio.",via Cavecchie,j.giacomelli@yahoo.it,3933360163,,
+daniela-grigoli,Daniela,Grigoli,F,1963-10-03,"Bussolengo (VR)",San Giorgio in Salici,viviamosona,"Responsabile commerciale di Wireless Group, azienda che si occupa di telecomunicazioni con sede a Sommacampagna.","Via Borghe, 4",danigrigoli@libero.it,3472624806,,
+renato-lago,Renato,Lago,M,1958-10-17,"Sona (VR)",Sona,viviamosona,/,Via del Sole,renato.lago.50@gmail.com,3933360163,,
+julyetta-le,Julyetta,Le detta Lilli,F,1980-11-01,"Legnago (VR)",Palazzolo,insiemepersona,Impiegata.,,juliette80le@gmail.com,3476037220,,
+nicola-manara,Nicola,Manara,M,1976-10-20,"Bussolengo (VR)",Palazzolo,viviamosona,Autista di ambulanza presso l'ULSS 9 Scaligera,,rimani1@alice.it,3473006568,,
+melinda-mannino,Melinda,Mannino,F,1970-06-10,"Bussolengo (VR)",Palazzolo,insiemepersona,"Impiegata marketing operativo, management e coordinamento eventi.","Via Grazia Deledda, 33",mannino_melinda@yahoo.it,3474056490,,
+luca-martinelli,Luca,Martinelli,M,1998-09-24,"Verona (VR)",Lugagnano,viviamosona,"Sviluppatore web presso Gruppo Gaspari, azienda che si occupa di editoria e servizi web per le PA.",Via Francesco Petrarca,martinelliluca98@gmail.com,3404700123,,Sì
+marco-oliosi,Marco,Oliosi,M,1956-08-08,Peschiera del Garda,San Giorgio in Salici,viviamosona,"43 anni in uno studio di commercialista come amministrazione del personale, 20 anni nel direttivo Avis, direttivo Asilo, Alpini e Sagra di San Giorgio e presidente della consulta di San Giorgio.",,,3920138052,,
+stefano-paoli,Stefano,Paoli,M,1975-01-20,"Bussolengo (VR)",Sona,viviamosona,Pensionato. Precedentemente dipendente per vent'anni alla Serugeri Legnami.,Via Val di Sona,paoli.75@gmail.com,3284516697,,
+matteo-pizzini,Matteo,Pizzini,M,1979-01-03,"Bussolengo (VR)",Sona,insiemepersona,Responsabile di Coordinamento e Produzione di una azienda cartotecnica dal 1996.,,teohv398@yahoo.it,3333721108,,
+valter-quarta,Valter,Quarta,M,1965-09-11,"Carmiano (LE)",Lugagnano,insiemepersona,,,,,,
+roberta-ruffo,Roberta,Ruffo,F,1967-07-24,"Verona (VR)",Verona,insiemepersona,Impiegata amministrativa presso Mondialtrans Srl,,roberta.ruffo1967@gmail.com,3441341769,,Sì
+fernando-scandola,Fernando,Scandola,M,1961-12-27,"Sona (VR)",Lugagnano,viviamosona,,,,,,
+gianluigi-sette,Gianluigi,Sette,M,1972-02-26,"Bussolengo (VR)",San Giorgio in Salici,viviamosona,Consulente immobiliare,,sette.gianluigi@gmail.com,347784 507,,Sì
+filomena-siani,Filomena,Siani,F,1972-04-25,"Cava de' Tirreni (SA)",Palazzolo,viviamosona,Impiegata Amministrativa/Contabile.,,filomena.siani@gmail.com,3288867585,,Sì
+bruno-stevanoni,Bruno,Stevanoni,M,1957-04-03,"Verona (VR)",Lugagnano,insiemepersona,Pensionato però ancora in attività come collaboratore aziendale nel campo della sicurezza alimentare e impegnato con il volontariato.,"Via Amerigo Vespucci, 15",b.stevanoni@gmail.com,3472303103,,
+albino-turata,Albino,Turata,M,1951-10-18,"Sona (VR)",Lugagnano,viviamosona,"Pensionato e impiegato nel volontariato, precedentemente macchinista Ferrovie dello Stato.",,albino.turata@gmail.com,3498746651,,
+orietta-vicentini,Orietta,Vicentini,F,1970-12-22,"Bussolengo (VR)",San Giorgio in Salici,viviamosona,Insegnante presso la Scuola dell'Infanzia Statale di Sona.,,vicentiniorietta1@gmail.com,3357048170,,
+alessio-rungatscher,Alessio,Rungatscher,M,,,,fi-lega
+virginio-maurizio-moletta,Virginio Maurizio,Moletta,M,,,,fi-lega
+edgardo-pesce,Edgardo,Pesce,M,,,,fi-lega
+marilena-grigoli,Marilena,Grigoli,F,,,,fi-lega
+rina-geloso,Rina,Geloso,F,,,,fi-lega
+angela-turazzina,Angela,Turazzina,F,,,,fi-lega
+monica-quanilli,Monica,Quanilli,F,,,,fi-lega
+mirko-girelli,Mirko,Girelli,M,,,,fi-lega
+meri-pinotti,Meri,Pinotti,F,,,,fi-lega
+stefania-orizio,Stefania,Orizio,F,,,,fi-lega
+roberto-zandonà,Roberto,Zandonà,M,,,,fi-lega
+maria-maimeri,Maria,Maimeri,F,,,,fi-lega
+orazio-andreetti,Orazio,Andreetti,M,,,,fi-lega
+orietta-ferrari,Orietta,Ferrari,F,,,,fi-lega
+andrea-piccolo,Andrea,Piccolo,M,,,,fi-lega
+laura-gagliano,Laura,Gagliano,F,,,,fi-lega

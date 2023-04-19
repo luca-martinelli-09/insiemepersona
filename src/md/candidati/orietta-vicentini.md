@@ -13,3 +13,5 @@ casellario: /cv/orietta-vicentini/casellario-orietta-vicentini.pdf
 list:
 - viviamosona
 ---
+
+Insegnante presso la Scuola dell'Infanzia Statale di Sona.

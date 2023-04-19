@@ -13,3 +13,5 @@ casellario: /cv/mirco-amali/casellario-mirco-amali.pdf
 list:
 - insiemepersona
 ---
+
+Dipendente presso Trenitalia s.p.a.

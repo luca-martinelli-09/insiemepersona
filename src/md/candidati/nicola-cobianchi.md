@@ -13,3 +13,5 @@ casellario: /cv/nicola-cobianchi/casellario-nicola-cobianchi.pdf
 list:
 - insiemepersona
 ---
+
+Dipendente Pubblica Amministrazione.

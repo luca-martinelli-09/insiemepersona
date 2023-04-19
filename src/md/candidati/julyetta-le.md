@@ -13,3 +13,5 @@ casellario: /cv/julyetta-le/casellario-julyetta-le.pdf
 list:
 - insiemepersona
 ---
+
+Impiegata.

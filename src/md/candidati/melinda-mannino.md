@@ -13,3 +13,5 @@ casellario: /cv/melinda-mannino/casellario-melinda-mannino.pdf
 list:
 - insiemepersona
 ---
+
+Impiegata marketing operativo, management e coordinamento eventi.

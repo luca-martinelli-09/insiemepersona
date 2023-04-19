@@ -13,3 +13,5 @@ casellario: /cv/matteo-benedetti/casellario-matteo-benedetti.pdf
 list:
 - insiemepersona
 ---
+
+Geometra.

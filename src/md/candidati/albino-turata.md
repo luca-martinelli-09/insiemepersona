@@ -13,3 +13,5 @@ casellario: /cv/albino-turata/casellario-albino-turata.pdf
 list:
 - viviamosona
 ---
+
+Pensionato e impiegato nel volontariato, precedentemente macchinista Ferrovie dello Stato.

@@ -13,3 +13,5 @@ casellario: /cv/bruno-stevanoni/casellario-bruno-stevanoni.pdf
 list:
 - insiemepersona
 ---
+
+Pensionato però ancora in attività come collaboratore aziendale nel campo della sicurezza alimentare e impegnato con il volontariato.

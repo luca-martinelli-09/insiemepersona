@@ -13,3 +13,5 @@ casellario: /cv/giannina-costa/casellario-giannina-costa.pdf
 list:
 - insiemepersona
 ---
+
+Pensionata, ex dipendente pubblica.

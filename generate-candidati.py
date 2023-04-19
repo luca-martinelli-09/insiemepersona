@@ -1,9 +1,8 @@
 # pip install python-frontmatter
 # %%
 from io import BytesIO
-
+import os
 import frontmatter
-
 import pandas as pd
 
 candidati = pd.read_csv('candidati.csv', index_col=['id'])
@@ -11,7 +10,13 @@ candidati = pd.read_csv('candidati.csv', index_col=['id'])
 for candidatoID, data in candidati.iterrows():
     print(candidatoID)
 
-    post = frontmatter.Post("")
+    if data['lista'] == 'fi-lega':
+        continue
+
+    if not os.path.exists(f"static/cv/{candidatoID}"):
+        os.mkdir(f"static/cv/{candidatoID}")
+
+    post = frontmatter.Post(data['professione'] if pd.notna(data['professione']) else "")
     post.metadata = {
         "id": candidatoID,
         "name": data["nome"],

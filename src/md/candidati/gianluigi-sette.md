@@ -13,3 +13,5 @@ casellario: /cv/gianluigi-sette/casellario-gianluigi-sette.pdf
 list:
 - viviamosona
 ---
+
+Consulente immobiliare

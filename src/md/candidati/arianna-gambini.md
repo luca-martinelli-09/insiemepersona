@@ -13,3 +13,5 @@ casellario: /cv/arianna-gambini/casellario-arianna-gambini.pdf
 list:
 - insiemepersona
 ---
+
+Parrucchiera, socia dell'attività di Acconciature Ninì dal 2017, consigliere comunale di Sona dal 2013.

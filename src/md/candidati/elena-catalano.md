@@ -13,3 +13,5 @@ casellario: /cv/elena-catalano/casellario-elena-catalano.pdf
 list:
 - insiemepersona
 ---
+
+Assessore esterno con deleghe al Turismo e marketing territoriale, attività economico produttive, politiche agricole, politiche del lavoro (sportello lavoro), matrimoni, gas.

@@ -13,3 +13,5 @@ casellario: /cv/roberta-ruffo/casellario-roberta-ruffo.pdf
 list:
 - insiemepersona
 ---
+
+Impiegata amministrativa presso Mondialtrans Srl

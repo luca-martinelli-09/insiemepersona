@@ -13,3 +13,5 @@ casellario: /cv/giancarlo-giacomelli/casellario-giancarlo-giacomelli.pdf
 list:
 - insiemepersona
 ---
+
+Pensionato dal novembre 2020, precedentemente agente di commercio.
