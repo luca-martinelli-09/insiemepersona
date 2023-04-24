@@ -4,7 +4,7 @@
 </script>
 
 <svelte:head>
-  <title>Insieme perSona & Viviamo Sona</title>
+  <title>Viviamo Sona & Insieme per Sona</title>
 </svelte:head>
 
 <Header />
