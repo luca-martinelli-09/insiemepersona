@@ -7,7 +7,7 @@ birthday: '1957-04-03'
 birthplace: Verona (VR)
 location: Lugagnano
 type: consigliere
-image: /cv/bruno-stevanoni/bruno-stevanoni.jpeg
+image: /cv/bruno-stevanoni/bruno-stevanoni.webp
 cv: /cv/bruno-stevanoni/bruno-stevanoni.pdf
 casellario: /cv/bruno-stevanoni/casellario-bruno-stevanoni.pdf
 list:

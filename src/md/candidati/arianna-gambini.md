@@ -7,7 +7,7 @@ birthday: '1974-03-27'
 birthplace: Bussolengo (VR)
 location: Lugagnano
 type: consigliere
-image: /cv/arianna-gambini/arianna-gambini.jpeg
+image: /cv/arianna-gambini/arianna-gambini.webp
 cv: /cv/arianna-gambini/arianna-gambini.pdf
 casellario: /cv/arianna-gambini/casellario-arianna-gambini.pdf
 list:

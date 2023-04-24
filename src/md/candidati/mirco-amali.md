@@ -7,7 +7,7 @@ birthday: '1985-06-23'
 birthplace: Verona (VR)
 location: Lugagnano
 type: consigliere
-image: /cv/mirco-amali/mirco-amali.jpeg
+image: /cv/mirco-amali/mirco-amali.webp
 cv: /cv/mirco-amali/mirco-amali.pdf
 casellario: /cv/mirco-amali/casellario-mirco-amali.pdf
 list:

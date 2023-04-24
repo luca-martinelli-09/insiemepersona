@@ -7,11 +7,11 @@ birthday: '1969-10-29'
 birthplace: Sona (VR)
 location: Lugagnano
 type: consigliere
-image: /cv/loreta-bottura/loreta-bottura.jpeg
+image: /cv/loreta-bottura/loreta-bottura.webp
 cv: /cv/loreta-bottura/loreta-bottura.pdf
 casellario: /cv/loreta-bottura/casellario-loreta-bottura.pdf
 list:
 - viviamosona
 ---
 
-Operaia.
+Responsabile della gestione delle decalcomanie presso Ancap S.r.l.

@@ -7,7 +7,7 @@ birthday: '1981-08-09'
 birthplace: Verona (VR)
 location: San Giorgio in Salici
 type: consigliere
-image: /cv/eleonora-garonzi/eleonora-garonzi.jpeg
+image: /cv/eleonora-garonzi/eleonora-garonzi.webp
 cv: /cv/eleonora-garonzi/eleonora-garonzi.pdf
 casellario: /cv/eleonora-garonzi/casellario-eleonora-garonzi.pdf
 list:

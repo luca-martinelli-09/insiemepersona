@@ -7,7 +7,7 @@ birthday: '1985-11-11'
 birthplace: Bussolengo (VR)
 location: Lugagnano
 type: consigliere
-image: /cv/matteo-benedetti/matteo-benedetti.jpeg
+image: /cv/matteo-benedetti/matteo-benedetti.webp
 cv: /cv/matteo-benedetti/matteo-benedetti.pdf
 casellario: /cv/matteo-benedetti/casellario-matteo-benedetti.pdf
 list:

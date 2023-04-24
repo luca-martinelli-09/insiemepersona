@@ -7,7 +7,7 @@ birthday: '1967-07-24'
 birthplace: Verona (VR)
 location: Verona
 type: consigliere
-image: /cv/roberta-ruffo/roberta-ruffo.jpeg
+image: /cv/roberta-ruffo/roberta-ruffo.webp
 cv: /cv/roberta-ruffo/roberta-ruffo.pdf
 casellario: /cv/roberta-ruffo/casellario-roberta-ruffo.pdf
 list:

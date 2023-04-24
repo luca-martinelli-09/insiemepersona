@@ -7,7 +7,7 @@ birthday: '1979-01-03'
 birthplace: Bussolengo (VR)
 location: Sona
 type: consigliere
-image: /cv/matteo-pizzini/matteo-pizzini.jpeg
+image: /cv/matteo-pizzini/matteo-pizzini.webp
 cv: /cv/matteo-pizzini/matteo-pizzini.pdf
 casellario: /cv/matteo-pizzini/casellario-matteo-pizzini.pdf
 list:

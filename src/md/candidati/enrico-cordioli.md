@@ -7,7 +7,7 @@ birthday: '1980-09-17'
 birthplace: Verona (VR)
 location: Lugagnano
 type: consigliere
-image: /cv/enrico-cordioli/enrico-cordioli.jpeg
+image: /cv/enrico-cordioli/enrico-cordioli.webp
 cv: /cv/enrico-cordioli/enrico-cordioli.pdf
 casellario: /cv/enrico-cordioli/casellario-enrico-cordioli.pdf
 list:

@@ -7,7 +7,7 @@ birthday: '1970-12-22'
 birthplace: Bussolengo (VR)
 location: San Giorgio in Salici
 type: consigliere
-image: /cv/orietta-vicentini/orietta-vicentini.jpeg
+image: /cv/orietta-vicentini/orietta-vicentini.webp
 cv: /cv/orietta-vicentini/orietta-vicentini.pdf
 casellario: /cv/orietta-vicentini/casellario-orietta-vicentini.pdf
 list:
