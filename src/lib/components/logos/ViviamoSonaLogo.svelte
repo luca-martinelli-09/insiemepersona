@@ -2,7 +2,7 @@
   export let size: number = 64;
 </script>
 
-<svg height={size} width={size} viewBox="0 0 512 512" fill="none" xmlns="http://www.w3.org/2000/svg">
+<svg height={size} width={size} class={$$props.class} viewBox="0 0 512 512" fill="none" xmlns="http://www.w3.org/2000/svg">
   <g clip-path="url(#clip0_2_168)">
     <path d="M512 256C512 397.386 397.384 512 256 512C114.614 512 0 397.386 0 256C0 114.614 114.614 6.94828e-06 256 6.94828e-06C397.384 6.94828e-06 512 114.614 512 256Z" fill="#8DC63F" />
     <path

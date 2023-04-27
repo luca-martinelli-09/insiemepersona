@@ -11,10 +11,10 @@
 
 <style lang="postcss">
   a {
-    @apply font-bold block py-2 pl-3 pr-4 text-gray-700 hover:bg-gray-100 md:hover:bg-transparent md:border-0 md:hover:text-blue-600 md:p-0;
+    @apply font-bold block text-gray-900;
   }
 
   a.active {
-    @apply bg-blue-600 md:bg-transparent text-white md:text-blue-600;
+    @apply text-[#006896];
   }
 </style>

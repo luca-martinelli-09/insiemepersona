@@ -1,36 +1,76 @@
-@import url("https://fonts.googleapis.com/css2?family=Arvo:ital,wght@0,400;0,700;1,400;1,700&family=David+Libre:wght@400;700&family=Noto+Sans:wght@400;700&display=swap");
+@import url("https://api.fontshare.com/v2/css?f[]=sentient@400,301,501,500,300,401&f[]=outfit@400,700&display=swap");
 
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
 
-body {
-  background-image: url("/bg/beams.jpg");
-  @apply font-body bg-no-repeat bg-left-top bg-[#f9fafc] bg-contain;
+html {
+  scroll-behavior: smooth;
 }
 
-.button {
-  @apply flex items-center justify-center px-7 py-3 border bg-white text-black border-black font-sans uppercase no-underline
-  transition-all duration-200 ease-in-out
-  hover:bg-blue-600 hover:text-white hover:border-blue-600 hover:shadow-lg
-  active:bg-blue-700 active:border-blue-700 active:text-white active:shadow-md;
+body {
+  background: rgb(0, 104, 150);
+  background: radial-gradient(circle, rgba(0, 104, 150, 1) 30%, rgba(28, 55, 131, 1) 100%);
+  @apply text-white font-body;
+}
+
+span.green {
+  @apply text-[#B3D234];
 }
 
 section {
-  @apply py-16 flex flex-col gap-10 justify-center;
+  @apply min-h-screen flex items-center justify-center border-b-8 border-[#B3D234]
+        flex-col lg:flex-row;
 }
 
-section > h1,
-section > h2,
-h1.big,
-h2.big {
-  @apply text-6xl md:text-7xl lg:text-8xl font-display uppercase font-bold;
+section main {
+  @apply max-w-screen-2xl mx-auto px-5 py-20 md:px-20;
 }
 
-section > h2 {
-  @apply text-4xl md:text-5xl lg:text-6xl;
+section main.pills {
+  @apply flex flex-col justify-center gap-20;
 }
 
-main section:first-child {
-  @apply mt-24;
+h1.title {
+  @apply font-serif font-light italic text-5xl sm:text-6xl md:text-7xl lg:text-8xl;
+}
+
+h2.title {
+  @apply font-sans font-bold text-4xl sm:text-5xl md:text-6xl lg:text-7xl;
+}
+
+ol.pills {
+  counter-reset: orderedlist;
+  @apply flex flex-col gap-4 text-xl sm:text-2xl md:text-3xl text-left;
+}
+
+ol.pills li {
+  @apply flex items-center;
+}
+
+ol.pills li::before {
+  counter-increment: orderedlist;
+  content: counter(orderedlist);
+  @apply flex items-center justify-center font-bold text-[#006896] text-2xl sm:text-3xl lg:text-5xl mr-5 rounded-full bg-[#B3D234] flex-shrink-0 flex-grow-0 w-10 h-10 sm:w-14 sm:h-14 lg:w-20 lg:h-20;
+}
+
+img.side {
+  @apply w-full lg:w-1/4 h-64 lg:h-auto object-cover;
+}
+
+.button {
+  @apply flex items-center justify-center
+    rounded-full text-[#B3D234] font-bold py-4 px-7 text-2xl
+    border-4 border-[#B3D234]
+    transition-all duration-300 ease-in-out
+    hover:shadow-lg hover:text-[#15457D] hover:bg-[#B3D234]
+    active:scale-95;
+}
+
+.button.primary {
+  @apply text-[#15457D] bg-[#B3D234];
+}
+
+.button.only-icon {
+  @apply text-3xl px-4 py-4 min-w-[72px]  aspect-square flex-shrink-0 flex-grow-0;
 }

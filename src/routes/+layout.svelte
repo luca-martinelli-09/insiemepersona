@@ -9,13 +9,16 @@
 
 <Header />
 
-<main class="max-w-screen-2xl mx-auto mb-20 px-3">
-  <slot />
-</main>
+<slot />
 
-<footer class="mt-10 bg-[#15457d] text-white">
-  <div class="max-w-screen-2xl mx-auto py-5 text-sm flex flex-col gap-2">
-    <p>Questo sito non utilizza cookie.</p>
+<footer>
+  <div class="max-w-screen-2xl mx-auto py-10 text-sm flex flex-col gap-2 px-5">
+    <div class="flex gap-3">
+      <a href="/" class="underline">Home</a>
+      <a href="/chi-siamo" class="underline">Candidati</a>
+      <a href="/articoli" class="underline">Rassegna stampa</a>
+    </div>
+    <p class="mt-3">Questo sito non utilizza cookie.</p>
     <a href="/privacy" class="underline">Privacy Policy</a>
   </div>
 </footer>

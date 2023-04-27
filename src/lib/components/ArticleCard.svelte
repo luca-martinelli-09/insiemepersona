@@ -5,7 +5,7 @@
   export let article: Post;
 </script>
 
-<a href="/articoli/{article.id}" class="bg-white shadow-md hover:shadow-lg transition-shadow duration-300 ease-in border border-gray-100 aspect-video w-full">
+<a href="/articoli/{article.id}" class="bg-white text-gray-900 shadow-md hover:shadow-lg transition-shadow duration-300 ease-in border border-gray-100 aspect-video w-full">
   <img src={article.image} alt={article.title} />
   <div class="p-4">
     <span class="text-sm block mb-3">{formatDate(article.date)}</span>

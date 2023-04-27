@@ -7,11 +7,13 @@
 </script>
 
 <section>
-  <h1>Ultime notizie</h1>
+  <main>
+    <h1 class="title">Rassegna stampa</h1>
 
-  <div class="grid md:grid-cols-2 lg:grid-cols-3 gap-4">
-    {#each posts as post}
-      <ArticleCard article={post} />
-    {/each}
-  </div>
+    <div class="mt-20 grid md:grid-cols-2 lg:grid-cols-3 gap-4">
+      {#each posts as post}
+        <ArticleCard article={post} />
+      {/each}
+    </div>
+  </main>
 </section>

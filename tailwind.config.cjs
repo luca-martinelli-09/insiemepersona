@@ -4,9 +4,8 @@ module.exports = {
   theme: {
     extend: {
       fontFamily: {
-        'body': ['"Noto Sans"', 'sans-serif'],
-        'serif': ['Arvo', 'serif'],
-        'display': ['"David Libre"']
+        'body': ['Outfit', 'sans-serif'],
+        'serif': ['Sentient', 'serif']
       }
     },
   },

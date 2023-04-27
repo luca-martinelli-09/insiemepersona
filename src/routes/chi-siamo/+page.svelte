@@ -16,32 +16,41 @@
 </script>
 
 <section>
-  <h1 class="text-center mt-10">Il candidato sindaco</h1>
-  {#if sindaco}
-    <div class="flex items-center justify-center">
-      <AvatarCandidato candidato={sindaco} />
+  <main class="justify-center">
+    <h1 class="title text-center mb-20">Il candidato <span class="green font-medium">sindaco</span></h1>
+    {#if sindaco}
+      <div class="flex items-center justify-center">
+        <AvatarCandidato candidato={sindaco} />
+      </div>
+    {/if}
+    <div class="flex mt-10 justify-center">
+      <a class="button primary" href="#consiglieri">Candidati consiglieri</a>
     </div>
-  {/if}
+  </main>
+</section>
 
-  <h2 class="text-center mt-10">I candidati consiglieri</h2>
+<section id="consiglieri">
+  <main>
+    <h2 class="title text-center mb-20">I candidati <span class="green">consiglieri</span></h2>
 
-  <div class="grid grid-cols-1 md:grid-cols-2 gap-5">
-    <div class="flex flex-col items-center gap-20 bg-white p-10 shadow-md">
-      <ViviamoSonaLogo size={200} />
-      <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 items-center gap-8">
-        {#each viviamoSona as candidato}
-          <AvatarCandidato {candidato} mini={true} />
-        {/each}
+    <div class="grid grid-cols-1 lg:grid-cols-2 gap-5 text-gray-900">
+      <div class="flex flex-col items-center gap-20 bg-white p-10 shadow-md">
+        <ViviamoSonaLogo size={200} />
+        <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-2 xl:grid-cols-3 items-start gap-8">
+          {#each viviamoSona as candidato}
+            <AvatarCandidato {candidato} mini={true} />
+          {/each}
+        </div>
+      </div>
+
+      <div class="flex flex-col items-center gap-20 bg-white p-10 shadow-md">
+        <InsiemePerSonaLogo size={200} />
+        <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-2 xl:grid-cols-3 items-start gap-8">
+          {#each insiemePerSona as candidato}
+            <AvatarCandidato {candidato} mini={true} />
+          {/each}
+        </div>
       </div>
     </div>
-
-    <div class="flex flex-col items-center gap-20 bg-white p-10 shadow-md">
-      <InsiemePerSonaLogo size={200} />
-      <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 items-center gap-8">
-        {#each insiemePerSona as candidato}
-          <AvatarCandidato {candidato} mini={true} />
-        {/each}
-      </div>
-    </div>
-  </div>
+  </main>
 </section>
