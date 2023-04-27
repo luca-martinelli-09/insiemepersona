@@ -9,7 +9,7 @@
   export let mini = false;
 </script>
 
-<a href="/chi-siamo/{candidato.id}" class="flex flex-col items-center justify-center {mini ? '' : 'w-96'} {clazz}">
+<a href="/chi-siamo/{candidato.id}" class="flex flex-col items-center justify-center {mini ? '' : 'w-full max-w-sm'} {clazz}">
   <img
     src={candidato.image}
     alt={candidato.name + " " + candidato.surname}

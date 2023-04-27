@@ -12,12 +12,12 @@
 <section>
   <main class="flex flex-col gap-20">
     <div class="flex justify-center gap-2 md:gap-5 w-full">
-      <ViviamoSonaLogo size={300} class="h-auto w-full lg:w-auto" />
-      <InsiemePerSonaLogo size={300} class="h-auto w-full lg:w-auto" />
+      <ViviamoSonaLogo size={250} class="h-auto w-full lg:w-auto" />
+      <InsiemePerSonaLogo size={250} class="h-auto w-full lg:w-auto" />
     </div>
     <div class="flex flex-col gap-16 items-center">
       <h1 class="title text-center">Ripartiamo dalle<br /><span class="green font-medium">persone</span></h1>
-      <div class="flex gap-2">
+      <div class="flex flex-col w-full justify-center md:flex-row gap-2">
         <a class="button primary" href="/chi-siamo">Conosci i candidati</a>
         <a class="button gap-3" href="/programma-amministrativo.pdf"><span class="text-3xl"><Icon icon="ic:round-arrow-downward" /></span>Le nostre idee</a>
       </div>
