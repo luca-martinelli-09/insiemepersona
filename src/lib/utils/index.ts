@@ -7,5 +7,5 @@ export const formatDate = (x: string | Date) => {
 
 export const LIST_TO_NAME = {
   insiemepersona: "Insieme per Sona",
-  viviamosona: "ViviAmo Sona",
+  viviamosona: "Viviamo Sona",
 };
