@@ -18,7 +18,8 @@
       <a href="/chi-siamo" class="underline">Candidati</a>
       <a href="/articoli" class="underline">Rassegna stampa</a>
     </div>
-    <p class="mt-3">Questo sito non utilizza cookie.</p>
-    <a href="/privacy" class="underline">Privacy Policy</a>
+    <p class="mt-3">
+      Questo sito non utilizza cookie di profilazione, ma si avvale di cookie tecnici necessari al suo funzionamento. <a href="/privacy" class="underline">Informativa sulla privacy</a>
+    </p>
   </div>
 </footer>

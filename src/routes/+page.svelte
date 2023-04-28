@@ -19,7 +19,10 @@
       <h1 class="title text-center">Ripartiamo dalle<br /><span class="green font-medium">persone</span></h1>
       <div class="flex flex-col w-full justify-center md:flex-row gap-2">
         <a class="button primary" href="/chi-siamo">Conosci i candidati</a>
-        <a class="button gap-3" href="/programma-amministrativo.pdf"><span class="text-3xl"><Icon icon="ic:round-arrow-downward" /></span>Le nostre idee</a>
+        <a class="button gap-3" href="/programma-amministrativo.pdf" target="_blank" rel="noopener noreferrer">
+          <span class="text-3xl"><Icon icon="solar:download-minimalistic-linear" /></span>
+          <span>Le nostre idee</span>
+        </a>
       </div>
       <div class="flex gap-2 text-3xl">
         <a href="https://www.facebook.com/viviamosona" target="_blank" rel="noopener noreferrer"><Icon icon="mdi:facebook" /></a>

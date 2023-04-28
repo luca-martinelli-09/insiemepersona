@@ -15,6 +15,9 @@ for candidatoID, data in candidati.iterrows():
     if data['lista'] == 'fi-lega':
         continue
 
+    if pd.notna(data['custom-scheda']) and data['custom-scheda'] == 'Sì':
+        continue
+
     if not os.path.exists(f"static/cv/{candidatoID}"):
         os.mkdir(f"static/cv/{candidatoID}")
 
@@ -28,6 +31,7 @@ for candidatoID, data in candidati.iterrows():
 
     post = frontmatter.Post(
         data['professione'] if pd.notna(data['professione']) else "")
+
     post.metadata = {
         "id": candidatoID,
         "name": data["nome"],
