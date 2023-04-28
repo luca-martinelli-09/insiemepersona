@@ -42,7 +42,7 @@
               {#each viviamoSona as candidato}
                 <tr>
                   <td class="whitespace-nowrap">{candidato.order}</td>
-                  <td class="whitespace-nowrap">{candidato.surname} {candidato.name}</td>
+                  <th class="whitespace-nowrap">{candidato.surname} {candidato.name}</th>
                   <td class="whitespace-nowrap">{formatDate(candidato.birthday)}</td>
                   <td class="whitespace-nowrap">{candidato.birthplace}</td>
                   <td class="whitespace-nowrap"><a href={candidato.cv}>Scarica</a></td>
@@ -78,7 +78,7 @@
               {#each insiemePerSona as candidato}
                 <tr>
                   <td class="whitespace-nowrap">{candidato.order}</td>
-                  <td class="whitespace-nowrap">{candidato.surname} {candidato.name}</td>
+                  <th class="whitespace-nowrap">{candidato.surname} {candidato.name}</th>
                   <td class="whitespace-nowrap">{formatDate(candidato.birthday)}</td>
                   <td class="whitespace-nowrap">{candidato.birthplace}</td>
                   <td class="whitespace-nowrap"><a href={candidato.cv}>Scarica</a></td>
