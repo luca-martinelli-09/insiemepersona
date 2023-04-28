@@ -13,3 +13,5 @@ casellario: /cv/eleonora-garonzi/casellario-eleonora-garonzi.pdf
 list:
 - viviamosona
 ---
+
+Impiegata presso l’azienda Moorer Spa a Cavalcaselle dal 1999, prima come referente commerciale specializzata nel mercato tedesco poi dal 2019 referente logistico all’interno dell’ azienda. Le mie passioni sono i viaggi, la buona lettura e il buon cibo.

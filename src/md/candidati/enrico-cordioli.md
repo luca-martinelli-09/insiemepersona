@@ -14,4 +14,4 @@ list:
 - viviamosona
 ---
 
-Manager e imprenditore nell'ambito turistico. Già candidato sindaco e consigliere comunale (2013/2018)
+Manager e imprenditore nell'ambito turistico. Già candidato sindaco e consigliere comunale (2013/2018).

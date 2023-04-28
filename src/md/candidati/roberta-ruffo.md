@@ -14,4 +14,4 @@ list:
 - insiemepersona
 ---
 
-Impiegata amministrativa presso Mondialtrans Srl
+Impiegata amministrativa presso Mondialtrans Srl.

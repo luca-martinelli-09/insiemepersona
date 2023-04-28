@@ -14,4 +14,4 @@ list:
 - viviamosona
 ---
 
-Autista di ambulanza presso l'ULSS 9 Scaligera
+Autista di ambulanza presso l'ULSS 9 Scaligera.

@@ -14,4 +14,4 @@ list:
 - viviamosona
 ---
 
-Consulente immobiliare
+Consulente immobiliare.

@@ -14,4 +14,4 @@ list:
 - viviamosona
 ---
 
-/
+In pensione, avevo un'attività commerciale. Sono stato presidente dell' Associazione Calcio United  S. P.S.G. Sono organizzatore della corsa ciclistica di Sona, donatore di sangue, e faccio parte del gruppo Alpini di Sona.

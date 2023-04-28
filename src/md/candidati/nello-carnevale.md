@@ -13,3 +13,5 @@ casellario: /cv/nello-carnevale/casellario-nello-carnevale.pdf
 list:
 - insiemepersona
 ---
+
+Consulente del credito.
