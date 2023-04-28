@@ -1,5 +1,6 @@
 ---
 id: enrico-cordioli
+order: 3.0
 name: Enrico
 surname: Cordioli
 gender: M
@@ -10,6 +11,7 @@ type: consigliere
 image: /cv/enrico-cordioli/enrico-cordioli.webp
 cv: /cv/enrico-cordioli/enrico-cordioli.pdf
 casellario: /cv/enrico-cordioli/casellario-enrico-cordioli.pdf
+centerImage: false
 list:
 - viviamosona
 ---

@@ -1,5 +1,6 @@
 ---
 id: bruno-stevanoni
+order: 7.0
 name: Bruno
 surname: Stevanoni
 gender: M
@@ -10,6 +11,7 @@ type: consigliere
 image: /cv/bruno-stevanoni/bruno-stevanoni.webp
 cv: /cv/bruno-stevanoni/bruno-stevanoni.pdf
 casellario: /cv/bruno-stevanoni/casellario-bruno-stevanoni.pdf
+centerImage: false
 list:
 - insiemepersona
 ---

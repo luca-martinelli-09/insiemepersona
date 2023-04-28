@@ -1,5 +1,6 @@
 ---
 id: elena-catalano
+order: 1.0
 name: Elena
 surname: Catalano
 gender: F
@@ -10,6 +11,7 @@ type: consigliere
 image: /cv/elena-catalano/elena-catalano.webp
 cv: /cv/elena-catalano/elena-catalano.pdf
 casellario: /cv/elena-catalano/casellario-elena-catalano.pdf
+centerImage: false
 list:
 - insiemepersona
 ---

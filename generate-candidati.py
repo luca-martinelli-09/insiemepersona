@@ -34,6 +34,7 @@ for candidatoID, data in candidati.iterrows():
 
     post.metadata = {
         "id": candidatoID,
+        "order": data["order"],
         "name": data["nome"],
         "surname": data["cognome"],
         "gender": data["sesso"],
@@ -44,7 +45,7 @@ for candidatoID, data in candidati.iterrows():
         "image": f"/cv/{candidatoID}/{candidatoID}.webp",
         "cv": f"/cv/{candidatoID}/{candidatoID}.pdf",
         "casellario": f"/cv/{candidatoID}/casellario-{candidatoID}.pdf",
-        "centerImage": data["center-image"],
+        "centerImage": True if data["center-image"] == 'Sì' else False,
         "list": [data["lista"]]
     }
 

@@ -1,5 +1,6 @@
 ---
 id: eleonora-garonzi
+order: 14.0
 name: Eleonora
 surname: Garonzi
 gender: F

@@ -1,5 +1,6 @@
 ---
 id: roberta-ruffo
+order: 15.0
 name: Roberta
 surname: Ruffo
 gender: F
@@ -10,6 +11,7 @@ type: consigliere
 image: /cv/roberta-ruffo/roberta-ruffo.webp
 cv: /cv/roberta-ruffo/roberta-ruffo.pdf
 casellario: /cv/roberta-ruffo/casellario-roberta-ruffo.pdf
+centerImage: false
 list:
 - insiemepersona
 ---

@@ -15,7 +15,7 @@
   <div class="max-w-screen-2xl mx-auto py-10 text-sm flex flex-col gap-2 px-5">
     <div class="flex gap-3">
       <a href="/" class="underline">Home</a>
-      <a href="/chi-siamo" class="underline">Candidati</a>
+      <a href="/chi-siamo/tabella" class="underline">Candidati in formato tabellare</a>
       <a href="/articoli" class="underline">Rassegna stampa</a>
     </div>
     <p class="mt-3">

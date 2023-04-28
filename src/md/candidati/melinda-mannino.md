@@ -1,5 +1,6 @@
 ---
 id: melinda-mannino
+order: 12.0
 name: Melinda
 surname: Mannino
 gender: F
@@ -10,6 +11,7 @@ type: consigliere
 image: /cv/melinda-mannino/melinda-mannino.webp
 cv: /cv/melinda-mannino/melinda-mannino.pdf
 casellario: /cv/melinda-mannino/casellario-melinda-mannino.pdf
+centerImage: false
 list:
 - insiemepersona
 ---

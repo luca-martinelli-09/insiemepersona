@@ -1,5 +1,6 @@
 ---
 id: renato-lago
+order: 6.0
 name: Renato
 surname: Lago
 gender: M
@@ -10,6 +11,7 @@ type: consigliere
 image: /cv/renato-lago/renato-lago.webp
 cv: /cv/renato-lago/renato-lago.pdf
 casellario: /cv/renato-lago/casellario-renato-lago.pdf
+centerImage: false
 list:
 - viviamosona
 ---

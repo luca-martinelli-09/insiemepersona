@@ -1,5 +1,6 @@
 ---
 id: orietta-vicentini
+order: 1.0
 name: Orietta
 surname: Vicentini
 gender: F
@@ -10,6 +11,7 @@ type: consigliere
 image: /cv/orietta-vicentini/orietta-vicentini.webp
 cv: /cv/orietta-vicentini/orietta-vicentini.pdf
 casellario: /cv/orietta-vicentini/casellario-orietta-vicentini.pdf
+centerImage: false
 list:
 - viviamosona
 ---

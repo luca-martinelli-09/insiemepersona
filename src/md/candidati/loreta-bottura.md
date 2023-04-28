@@ -1,5 +1,6 @@
 ---
 id: loreta-bottura
+order: 10.0
 name: Loreta
 surname: Bottura
 gender: F
@@ -10,6 +11,7 @@ type: consigliere
 image: /cv/loreta-bottura/loreta-bottura.webp
 cv: /cv/loreta-bottura/loreta-bottura.pdf
 casellario: /cv/loreta-bottura/casellario-loreta-bottura.pdf
+centerImage: false
 list:
 - viviamosona
 ---

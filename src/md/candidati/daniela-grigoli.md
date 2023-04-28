@@ -1,5 +1,6 @@
 ---
 id: daniela-grigoli
+order: 8.0
 name: Daniela
 surname: Grigoli
 gender: F

@@ -1,5 +1,6 @@
 ---
 id: matteo-danese
+order: 4.0
 name: Matteo
 surname: Danese
 gender: M
@@ -10,6 +11,7 @@ type: consigliere
 image: /cv/matteo-danese/matteo-danese.webp
 cv: /cv/matteo-danese/matteo-danese.pdf
 casellario: /cv/matteo-danese/casellario-matteo-danese.pdf
+centerImage: false
 list:
 - insiemepersona
 ---

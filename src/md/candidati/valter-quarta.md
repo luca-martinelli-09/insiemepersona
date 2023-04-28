@@ -1,5 +1,6 @@
 ---
 id: valter-quarta
+order: 13.0
 name: Valter
 surname: Quarta
 gender: M
@@ -10,6 +11,7 @@ type: consigliere
 image: /cv/valter-quarta/valter-quarta.webp
 cv: /cv/valter-quarta/valter-quarta.pdf
 casellario: /cv/valter-quarta/casellario-valter-quarta.pdf
+centerImage: false
 list:
 - insiemepersona
 ---

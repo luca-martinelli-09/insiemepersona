@@ -1,5 +1,6 @@
 ---
 id: marco-oliosi
+order: 5.0
 name: Marco
 surname: Oliosi
 gender: M
@@ -10,6 +11,7 @@ type: consigliere
 image: /cv/marco-oliosi/marco-oliosi.webp
 cv: /cv/marco-oliosi/marco-oliosi.pdf
 casellario: /cv/marco-oliosi/casellario-marco-oliosi.pdf
+centerImage: false
 list:
 - viviamosona
 ---

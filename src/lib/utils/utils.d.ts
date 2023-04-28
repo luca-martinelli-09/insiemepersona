@@ -8,6 +8,7 @@ export interface Post {
 
 export interface Candidato {
   id: string;
+  order: number;
   name: string;
   surname: string;
   gender: "M" | "F";

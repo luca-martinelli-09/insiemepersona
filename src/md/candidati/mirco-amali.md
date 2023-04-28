@@ -1,5 +1,6 @@
 ---
 id: mirco-amali
+order: 6.0
 name: Mirco
 surname: Amali
 gender: M
@@ -10,6 +11,7 @@ type: consigliere
 image: /cv/mirco-amali/mirco-amali.webp
 cv: /cv/mirco-amali/mirco-amali.pdf
 casellario: /cv/mirco-amali/casellario-mirco-amali.pdf
+centerImage: false
 list:
 - insiemepersona
 ---

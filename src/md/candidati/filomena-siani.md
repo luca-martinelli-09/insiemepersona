@@ -1,5 +1,6 @@
 ---
 id: filomena-siani
+order: 9.0
 name: Filomena
 surname: Siani
 gender: F
@@ -10,6 +11,7 @@ type: consigliere
 image: /cv/filomena-siani/filomena-siani.webp
 cv: /cv/filomena-siani/filomena-siani.pdf
 casellario: /cv/filomena-siani/casellario-filomena-siani.pdf
+centerImage: false
 list:
 - viviamosona
 ---

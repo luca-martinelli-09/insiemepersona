@@ -1,5 +1,6 @@
 ---
 id: matteo-pizzini
+order: 5.0
 name: Matteo
 surname: Pizzini
 gender: M
@@ -10,6 +11,7 @@ type: consigliere
 image: /cv/matteo-pizzini/matteo-pizzini.webp
 cv: /cv/matteo-pizzini/matteo-pizzini.pdf
 casellario: /cv/matteo-pizzini/casellario-matteo-pizzini.pdf
+centerImage: false
 list:
 - insiemepersona
 ---

@@ -24,7 +24,7 @@ section {
 }
 
 section main {
-  @apply max-w-screen-2xl mx-auto px-5 py-20 md:px-20 mt-10;
+  @apply max-w-screen-2xl w-full mx-auto px-5 py-20 md:px-20 mt-10;
 }
 
 section main.pills {

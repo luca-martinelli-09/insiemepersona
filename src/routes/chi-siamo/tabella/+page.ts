@@ -2,7 +2,7 @@ import type { Candidato } from "$lib/utils/utils";
 import type { PageLoad } from "./$types";
 
 export const load = (async () => {
-  const candidatiFiles = import.meta.glob("../../md/candidati/*.md");
+  const candidatiFiles = import.meta.glob("../../../md/candidati/*.md");
   const iterableCandidati = Object.entries(candidatiFiles);
 
   let people = await Promise.all(

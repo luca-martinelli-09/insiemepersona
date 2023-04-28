@@ -1,5 +1,6 @@
 ---
 id: stefano-paoli
+order: 15.0
 name: Stefano
 surname: Paoli
 gender: M
@@ -10,6 +11,7 @@ type: consigliere
 image: /cv/stefano-paoli/stefano-paoli.webp
 cv: /cv/stefano-paoli/stefano-paoli.pdf
 casellario: /cv/stefano-paoli/casellario-stefano-paoli.pdf
+centerImage: false
 list:
 - viviamosona
 ---

@@ -1,5 +1,6 @@
 ---
 id: nicola-cobianchi
+order: 10.0
 name: Nicola
 surname: Cobianchi
 gender: M
@@ -10,6 +11,7 @@ type: consigliere
 image: /cv/nicola-cobianchi/nicola-cobianchi.webp
 cv: /cv/nicola-cobianchi/nicola-cobianchi.pdf
 casellario: /cv/nicola-cobianchi/casellario-nicola-cobianchi.pdf
+centerImage: false
 list:
 - insiemepersona
 ---

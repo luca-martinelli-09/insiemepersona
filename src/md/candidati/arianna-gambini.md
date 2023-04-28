@@ -1,5 +1,6 @@
 ---
 id: arianna-gambini
+order: 2.0
 name: Arianna
 surname: Gambini
 gender: F
@@ -10,6 +11,7 @@ type: consigliere
 image: /cv/arianna-gambini/arianna-gambini.webp
 cv: /cv/arianna-gambini/arianna-gambini.pdf
 casellario: /cv/arianna-gambini/casellario-arianna-gambini.pdf
+centerImage: false
 list:
 - insiemepersona
 ---

@@ -1,5 +1,6 @@
 ---
 id: jacopo-beltres-perez
+order: 16.0
 name: Jacopo
 surname: Beltres Perez
 gender: M
@@ -10,6 +11,7 @@ type: consigliere
 image: /cv/jacopo-beltres-perez/jacopo-beltres-perez.webp
 cv: /cv/jacopo-beltres-perez/jacopo-beltres-perez.pdf
 casellario: /cv/jacopo-beltres-perez/casellario-jacopo-beltres-perez.pdf
+centerImage: false
 list:
 - viviamosona
 ---
