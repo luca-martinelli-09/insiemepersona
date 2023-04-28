@@ -10,7 +10,7 @@
 </script>
 
 <section>
-  <main class="flex flex-col gap-20">
+  <main class="flex flex-col gap-12 md:gap-20">
     <div class="flex justify-center gap-2 md:gap-5 w-full">
       <ViviamoSonaLogo size={250} class="h-auto w-full lg:w-auto" />
       <InsiemePerSonaLogo size={250} class="h-auto w-full lg:w-auto" />

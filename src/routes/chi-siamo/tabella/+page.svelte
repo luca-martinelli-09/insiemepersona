@@ -8,14 +8,13 @@
 
   const people = data.people;
 
-  const sindaco = people.filter((c) => c.type == "sindaco")?.at(0);
   const consiglieri = people.filter((c) => c.type == "consigliere");
 
   const viviamoSona = consiglieri.filter((c) => c.list.includes("viviamosona"));
   const insiemePerSona = consiglieri.filter((c) => c.list.includes("insiemepersona"));
 </script>
 
-<section class="pt-10 pb-0 lg:py-20">
+<section>
   <main>
     <h2 class="title text-center">Candidati consiglieri in formato <span class="green">tabellare</span></h2>
 
