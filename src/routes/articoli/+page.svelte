@@ -8,7 +8,7 @@
 
 <section>
   <main>
-    <h1 class="title">Rassegna stampa</h1>
+    <h1 class="title">Rassegna <span class="green font-medium">stampa</span></h1>
 
     <div class="mt-20 grid md:grid-cols-2 lg:grid-cols-3 gap-4">
       {#each posts as post}
