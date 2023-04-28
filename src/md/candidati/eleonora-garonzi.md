@@ -10,6 +10,7 @@ type: consigliere
 image: /cv/eleonora-garonzi/eleonora-garonzi.webp
 cv: /cv/eleonora-garonzi/eleonora-garonzi.pdf
 casellario: /cv/eleonora-garonzi/casellario-eleonora-garonzi.pdf
+centerImage: true
 list:
 - viviamosona
 ---

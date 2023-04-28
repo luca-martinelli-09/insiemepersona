@@ -18,5 +18,6 @@ export interface Candidato {
   image: string;
   cv: string;
   casellario: string;
+  centerImage?: boolean;
   list: ("viviamosona" | "insiemepersona")[];
 }

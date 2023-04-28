@@ -44,6 +44,7 @@ for candidatoID, data in candidati.iterrows():
         "image": f"/cv/{candidatoID}/{candidatoID}.webp",
         "cv": f"/cv/{candidatoID}/{candidatoID}.pdf",
         "casellario": f"/cv/{candidatoID}/casellario-{candidatoID}.pdf",
+        "centerImage": data["center-image"],
         "list": [data["lista"]]
     }
 

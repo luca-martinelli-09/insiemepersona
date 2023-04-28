@@ -13,7 +13,7 @@
   <img
     src={candidato.image}
     alt={candidato.name + " " + candidato.surname}
-    class="rounded-full aspect-square object-cover object-top w-full border-4 {candidato.gender == 'M' ? 'border-blue-600' : 'border-pink-300'}"
+    class="rounded-full aspect-square object-cover {candidato.centerImage ? 'object-center' : 'object-top'} w-full border-4 {candidato.gender == 'M' ? 'border-blue-600' : 'border-pink-300'}"
   />
   <h3 class="mt-4 font-display font-bold {mini ? 'text-xl' : 'text-3xl'} text-center">{candidato.name}<br />{candidato.surname}</h3>
 </a>

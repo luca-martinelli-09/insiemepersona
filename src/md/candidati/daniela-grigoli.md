@@ -10,6 +10,7 @@ type: consigliere
 image: /cv/daniela-grigoli/daniela-grigoli.webp
 cv: /cv/daniela-grigoli/daniela-grigoli.pdf
 casellario: /cv/daniela-grigoli/casellario-daniela-grigoli.pdf
+centerImage: true
 list:
 - viviamosona
 ---

@@ -1,6 +1,5 @@
 <script lang="ts">
-  import Header from "$lib/components/Header.svelte";
-import { formatDate, LIST_TO_NAME } from "$lib/utils";
+  import { formatDate, LIST_TO_NAME } from "$lib/utils";
   import type { PageData } from "./$types";
 
   export let data: PageData;
@@ -14,7 +13,7 @@ import { formatDate, LIST_TO_NAME } from "$lib/utils";
     <img
       src={candidato.image}
       alt={candidato.name + " " + candidato.surname}
-      class="aspect-square object-top w-full mb-0 object-cover border-b-4 {candidato.gender === 'M' ? 'border-blue-600' : 'border-pink-300'}"
+      class="aspect-square {candidato.centerImage ? 'object-center' : 'object-top'} w-full mb-0 object-cover border-b-4 {candidato.gender === 'M' ? 'border-blue-600' : 'border-pink-300'}"
     />
     <div class="prose max-w-screen-md font-serif p-5 md:p-10 md:pt-5">
       <h1 class="mt-5 mb-2">{candidato.name} {candidato.surname}</h1>
