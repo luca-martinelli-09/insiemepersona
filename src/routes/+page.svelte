@@ -32,6 +32,30 @@
   </main>
 </section>
 
+<section class="items-stretch flex-col py-0 min-h-0">
+  <main class="py-0 md:pt-20">
+    <h4 class="title text-center">
+      Il nostro modo di amministrare parte dalla presenza sul territorio, dall'<strong class="green">ascolto</strong>, dalla <strong class="green">concretezza</strong> nel cercare soluzioni a istanze
+      reali della nostra comunità, con la <strong class="green">competenza</strong> di chi è abituato a risolvere problemi, con la <strong class="green">passione</strong>
+      e l'<strong class="green">impegno</strong> che da sempre spendiamo nel volontariato civico.
+    </h4>
+  </main>
+  <img src="/bg/foto-gruppo.webp" class="mt-10 md:mt-20" alt="Foto di gruppo" />
+</section>
+
+<section class="items-stretch min-h-0">
+  <img src="/cv/gianfranco-dalla-valentina/gianfranco-dalla-valentina.webp" alt="Azioni nei primi 100 giorni" class="side hidden lg:block" />
+  <main class="pills">
+    <h2 class="title">Azioni nei primi <span class="green">100 giorni</span></h2>
+
+    <ul class="pills">
+      <li><p><strong>Manutenzione</strong> di tutte le <strong>strade</strong> e dei <strong>marciapiedi</strong>.</p></li>
+      <li><p><strong>Manutenzione</strong> di tutti gli <strong>impianti sportivi</strong>.</p></li>
+      <li><p><strong>Manutenzione</strong> di tutte le <strong>aree verdi</strong> pubbliche.</p></li>
+    </ul>
+  </main>
+</section>
+
 <section class="items-stretch">
   <main class="pills">
     <h2 class="title">5 passi per ripartire a <span class="green">Lugagnano</span></h2>
