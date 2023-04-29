@@ -31,33 +31,33 @@
     </div>
   </main>
 </section>
-<!--
+
 <section class="items-stretch">
   <main class="pills">
     <h2 class="title">5 passi per ripartire a <span class="green">Lugagnano</span></h2>
 
     <ol class="pills">
-      <li><p><strong>Riqualificare</strong> il centro anche attraverso la realizzazione di nuovi parcheggi</p></li>
-      <li><p><strong>Creare una rete di ciclabili</strong> che colleghino tutto il paese</p></li>
-      <li><p><strong>Credere</strong> nelle potenzialità delle associazioni, <strong>e progettare</strong> una <strong>sede per le associazioni socio-assistenziali</strong> (Sos e Dono)</p></li>
-      <li><p><strong>Creare</strong> un <strong>polo sportivo</strong> per tutti gli sport e per tutte le persone</p></li>
-      <li><p><strong>Difendere l'ambiente</strong> (no ad alcun ampliamento della discarica Cà di Capri)</p></li>
+      <li><p><strong>Riqualificare</strong> il centro anche attraverso la realizzazione di nuovi parcheggi.</p></li>
+      <li><p><strong>Creare</strong> una rete di ciclabili che colleghino tutto il paese.</p></li>
+      <li><p><strong>Credere</strong> nelle potenzialità delle associazioni, e progettare una sede per le associazioni socio-assistenziali (Sos e Dono).</p></li>
+      <li><p><strong>Creare</strong> un polo sportivo per tutti gli sport e per tutte le persone.</p></li>
+      <li><p><strong>Difendere l'ambiente</strong> (no ad alcun ampliamento della discarica Cà di Capri).</p></li>
     </ol>
   </main>
   <img src="/bg/lugagnano.webp" alt="5 passi per ripartire a Lugagnano" class="side" />
 </section>
 
 <section class="items-stretch flex-col-reverse lg:flex-row">
-  <img src="/bg/sona.webp" alt="5 passi per ripartire a Sona" class="side" />
+  <img src="/bg/palazzolo.webp" alt="5 passi per ripartire a Palazzolo" class="side object-left" />
   <main class="pills">
-    <h2 class="title">5 passi per ripartire a <span class="green">Sona</span></h2>
+    <h2 class="title">5 passi per ripartire a <span class="green">Palazzolo</span></h2>
 
     <ol class="pills">
-      <li><p><strong>Riqualificare</strong> il centro anche attraverso la realizzazione di nuovi parcheggi</p></li>
-      <li><p><strong>Creare una rete di ciclabili</strong> che colleghino tutto il paese</p></li>
-      <li><p><strong>Credere</strong> nelle potenzialità delle associazioni, <strong>e progettare</strong> una <strong>sede per le associazioni socio-assistenziali</strong> (Sos e Dono)</p></li>
-      <li><p><strong>Creare</strong> un <strong>polo sportivo</strong> per tutti gli sport e per tutte le persone</p></li>
-      <li><p><strong>Difendere l'ambiente</strong> (no ad alcun ampliamento della discarica Cà di Capri)</p></li>
+      <li><p><strong>Centro civico da completare</strong> con la farmacia e ambulatori, portando avanti un'azione concreta per dotare la frazione di un medico.</p></li>
+      <li><p><strong>Centro civico</strong> da potenziare come spazio per i servizi del paese e per le Associazioni, portando avanti un'azione concreta per dotare la frazione di un medico.</p></li>
+      <li><p><strong>Bosco</strong>: riqualificazione marciapiedi, strade e aree verdi.</p></li>
+      <li><p><strong>Viabilità</strong>: portare avanti una progettualità per dotare il paese di percorsi ciclopedonali verso Sona e verso Bussolengo.</p></li>
+      <li><p><strong>Area cani</strong>: realizzare un'area cani lungo la ciclabile, in modo che sia facilmente raggiungibile a tutti.</p></li>
     </ol>
   </main>
 </section>
@@ -67,28 +67,46 @@
     <h2 class="title">5 passi per ripartire a <span class="green">San Giorgio</span></h2>
 
     <ol class="pills">
-      <li><p><strong>Riqualificare</strong> il centro anche attraverso la realizzazione di nuovi parcheggi</p></li>
-      <li><p><strong>Creare una rete di ciclabili</strong> che colleghino tutto il paese</p></li>
-      <li><p><strong>Credere</strong> nelle potenzialità delle associazioni, <strong>e progettare</strong> una <strong>sede per le associazioni socio-assistenziali</strong> (Sos e Dono)</p></li>
-      <li><p><strong>Creare</strong> un <strong>polo sportivo</strong> per tutti gli sport e per tutte le persone</p></li>
-      <li><p><strong>Difendere l'ambiente</strong> (no ad alcun ampliamento della discarica Cà di Capri)</p></li>
+      <li>
+        <p>
+          <strong>Sicurezza</strong>: marciapiedi e sistemazione degli incroci stradali in <strong>via Gaburri</strong> e <strong>Tagliaferro</strong>.<br />
+          Implementare il <strong>servizio di videosorveglianza</strong> nelle aree sensibili del territorio.
+        </p>
+      </li>
+      <li><p><strong>Centro civico</strong> da potenziare come spazio per i servizi del paese e per le Associazioni, portando avanti un'azione concreta per dotare la frazione di un medico.</p></li>
+      <li><p><strong>Sport</strong>: potenziare l'impianto sportivo per implementare la funzione di luogo del tempo libero per i nostri giovani e anziani.</p></li>
+      <li><p><strong>Viabilità</strong>: censimento e mappatura delle strade vicinali con un piano di manutenzione annuale di tutte le strade pubbliche.</p></li>
+      <li><p><strong>San Rocco</strong>: realizzazione di parcheggi e marciapiedi per il passaggio dei pedoni.</p></li>
     </ol>
   </main>
   <img src="/bg/san-giorgio.webp" alt="5 passi per ripartire a San Giorgio" class="side" />
 </section>
 
 <section class="items-stretch flex-col-reverse lg:flex-row">
-  <img src="/bg/palazzolo.webp" alt="5 passi per ripartire a Palazzolo" class="side object-left" />
+  <img src="/bg/sona.webp" alt="5 passi per ripartire a Sona" class="side" />
   <main class="pills">
-    <h2 class="title">5 passi per ripartire a <span class="green">Palazzolo</span></h2>
+    <h2 class="title">5 passi per ripartire a <span class="green">Sona</span></h2>
 
     <ol class="pills">
-      <li><p><strong>Riqualificare</strong> il centro anche attraverso la realizzazione di nuovi parcheggi</p></li>
-      <li><p><strong>Creare una rete di ciclabili</strong> che colleghino tutto il paese</p></li>
-      <li><p><strong>Credere</strong> nelle potenzialità delle associazioni, <strong>e progettare</strong> una <strong>sede per le associazioni socio-assistenziali</strong> (Sos e Dono)</p></li>
-      <li><p><strong>Creare</strong> un <strong>polo sportivo</strong> per tutti gli sport e per tutte le persone</p></li>
-      <li><p><strong>Difendere l'ambiente</strong> (no ad alcun ampliamento della discarica Cà di Capri)</p></li>
+      <li>
+        <p>
+          <strong>Riqualificazione</strong> del parco Fasoli (San Quirico) con implementazione di strutture per lo sport giovanile (calisthenics) e individuazione di uno spazio per le Associazioni del
+          paese.
+        </p>
+      </li>
+      <li>
+        <p>
+          <strong>Recupero del fabbricato</strong> nell'area retrostante la chiesa, per destinarlo (in accordo con la Parrocchia) a spazio per attività parrocchiali e sala prove per il Corpo Bandistico.
+        </p>
+      </li>
+      <li><p><strong>Realizzare un percorso pedonale</strong> protetto su via Fusara e su via Piè di Colle sino alla loc. Valle.</p></li>
+      <li><p><strong>Realizzare un anello ciclopedonale</strong> su via Val di Sandrà, dall'impianto di rugby fino alla loc. Valle.</p></li>
+      <li>
+        <p>
+          <strong>Sicurezza</strong>: implementare il servizio di videosorveglianza nelle aree sensibili del paese, come dissuasore per la velocità e contro attraversamento del centro da parte di
+          mezzi pesanti.
+        </p>
+      </li>
     </ol>
   </main>
 </section>
--->
