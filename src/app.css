@@ -28,7 +28,7 @@ section main {
 }
 
 section main.pills {
-  @apply flex flex-col justify-center gap-20;
+  @apply flex flex-col justify-center gap-10 md:gap-20 py-10 pb-10 mt-0 md:py-20;
 }
 
 h1.title {
@@ -45,7 +45,7 @@ h3.title {
 
 ol.pills {
   counter-reset: orderedlist;
-  @apply flex flex-col gap-4 text-xl sm:text-2xl md:text-3xl text-left;
+  @apply flex flex-col gap-4 text-lg sm:text-xl md:text-2xl lg:text-3xl text-left;
 }
 
 ol.pills li {
