@@ -78,7 +78,7 @@
 
     <ol class="pills">
       <li><p><strong>Centro civico da completare</strong> con la farmacia e ambulatori, portando avanti un'azione concreta per dotare la frazione di un medico.</p></li>
-      <li><p><strong>Centro civico</strong> da potenziare come spazio per i servizi del paese e per le Associazioni, portando avanti un'azione concreta per dotare la frazione di un medico.</p></li>
+      <li><p><strong>Sport</strong>: potenziare l'impianto sportivo con nuovo fondo in sintetico per il calcio e sostituzione pavimento palestra.</p></li>
       <li><p><strong>Bosco</strong>: riqualificazione marciapiedi, strade e aree verdi.</p></li>
       <li><p><strong>Viabilità</strong>: portare avanti una progettualità per dotare il paese di percorsi ciclopedonali verso Sona e verso Bussolengo.</p></li>
       <li><p><strong>Area cani</strong>: realizzare un'area cani lungo la ciclabile, in modo che sia facilmente raggiungibile a tutti.</p></li>
