@@ -33,14 +33,14 @@
 </section>
 
 <section class="items-stretch flex-col py-0 min-h-0">
-  <main class="py-0 md:pt-20">
+  <main class="mt-0 py-10 md:py-20">
     <h4 class="title text-center">
       Il nostro modo di amministrare parte dalla presenza sul territorio, dall'<strong class="green">ascolto</strong>, dalla <strong class="green">concretezza</strong> nel cercare soluzioni a istanze
       reali della nostra comunità, con la <strong class="green">competenza</strong> di chi è abituato a risolvere problemi, con la <strong class="green">passione</strong>
       e l'<strong class="green">impegno</strong> che da sempre spendiamo nel volontariato civico.
     </h4>
   </main>
-  <img src="/bg/foto-gruppo.webp" class="mt-10 md:mt-20" alt="Foto di gruppo" />
+  <img src="/bg/foto-gruppo.webp" class="m-0 p-0" alt="Foto di gruppo" />
 </section>
 
 <section class="items-stretch min-h-0">
