@@ -21,5 +21,8 @@
     <p class="mt-3">
       Questo sito non utilizza cookie di profilazione, ma si avvale di cookie tecnici necessari al suo funzionamento. <a href="/privacy" class="underline">Informativa sulla privacy</a>
     </p>
+    <p>
+      <a href="mailto:viviamosona@gmail.com">viviamosona@gmail.com</a>
+    </p>
   </div>
 </footer>
