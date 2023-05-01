@@ -34,7 +34,7 @@
                 <th class="uppercase whitespace-nowrap">Data di nascita</th>
                 <th class="uppercase whitespace-nowrap">Luogo di nascita</th>
                 <th class="uppercase whitespace-nowrap">Curriculum Vitae</th>
-                <th class="uppercase whitespace-nowrap">Certificato penale</th>
+                <th class="uppercase whitespace-nowrap">Casellario giudiziale</th>
               </tr>
             </thead>
             <tbody>
@@ -70,7 +70,7 @@
                 <th class="uppercase whitespace-nowrap">Data di nascita</th>
                 <th class="uppercase whitespace-nowrap">Luogo di nascita</th>
                 <th class="uppercase whitespace-nowrap">Curriculum Vitae</th>
-                <th class="uppercase whitespace-nowrap">Certificato penale</th>
+                <th class="uppercase whitespace-nowrap">Casellario giudiziale</th>
               </tr>
             </thead>
             <tbody>
